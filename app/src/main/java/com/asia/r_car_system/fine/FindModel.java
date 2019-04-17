@@ -10,6 +10,7 @@ public class FindModel {
         this.date = date;
         this.value = value;
         this.speed = speed;
+
     }
 
     public String getId() {
