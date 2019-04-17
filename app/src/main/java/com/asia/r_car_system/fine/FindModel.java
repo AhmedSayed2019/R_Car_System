@@ -4,13 +4,13 @@ public class FindModel {
 
     private String id  , date , value ,speed ;
 
-    public FindModel(String id, String date, String value, String speed) {
+    FindModel(String id, String date, String value, String speed) {
         this.id = id;
 
         this.date = date;
         this.value = value;
         this.speed = speed;
-
+//hi
     }
 
     public String getId() {
@@ -18,15 +18,15 @@ public class FindModel {
     }
 
 
-    public String getDate() {
+    String getDate() {
         return date;
     }
 
-    public String getValue() {
+    String getValue() {
         return value;
     }
 
-    public String getSpeed() {
+    String getSpeed() {
         return speed;
     }
 }
