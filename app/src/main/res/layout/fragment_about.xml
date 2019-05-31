@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/large_margin">
+
+        <TextView
+            style="@style/about"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/about1"
+            android:textSize="@dimen/large_text" />
+
+        <TextView
+            style="@style/about"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="@dimen/large_margin"
+            android:paddingBottom="@dimen/large_margin"
+            android:text="@string/about2"
+            android:textSize="@dimen/large_text" />
+
+
+        <TextView
+            style="@style/about"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/about3"
+            android:textSize="@dimen/large_text" />
+
+        <TextView
+            style="@style/about"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="@dimen/large_margin"
+            android:paddingBottom="@dimen/large_margin"
+            android:text="@string/about4"
+            android:textSize="@dimen/large_text" />
+
+        <TextView
+            style="@style/about"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/about5"
+            android:textSize="@dimen/large_text" />
+
+        <TextView
+            style="@style/about"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/about6"
+            android:textSize="@dimen/large_text" />
+
+        <TextView
+            style="@style/about"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/about7"
+            android:textSize="@dimen/large_text" />
+
+        <TextView
+
+            style="@style/about"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="@dimen/large_margin"
+            android:paddingBottom="@dimen/large_margin"
+            android:text="@string/about8"
+            android:textSize="@dimen/large_text" />
+    </LinearLayout>
+</ScrollView>

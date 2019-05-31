@@ -41,8 +41,33 @@
     <string name="no_data_found">No data found</string>
 
 
+    <string name="Help"> - You can report a complaint or suggestion through the short number: 19011 \n\n
+                        - E-mail : car.pronto-fm.com \n\n
+                        - Online chat through the support team representative from 9 AM till 4 PM from Sunday to Thursday
+    </string>
 
-
+    <string name="about1">- It  provides services over the Internet. Users can easily access the desired service . Moreover, user can acquire information concerning the documents/applications and procedures needed for completing services , it  provides services using different approaches and alternatives of classification, to make it easier for users (citizens, businesses,  investmentors , etc…) to access the desired services at minimum effort and time, this includes segmentation by service providers, personas and subjects \n\n
+     - In accordance, the Ministries established a complete framework for automating the services that the government provides through the e-Government project.\n\n
+     - Delivering efficient interactive services to the public over the telephone and internet\n\n
+     - It  display services that have been restructured and automated in a congregated and direct way that helps the navigator to find the government service that he/she is looking for easily.  moreover, provides complete transactions over the networks for some services starting from the inquiry stage passing through the other stages ( forms, procedures,…etc) reaching the submission, payment, and delivery stage.</string>
+    <string name="about2">Objectives :</string>
+    <string name="about3">- To Provide services efficiently to Citizens, companies, and Investors through ensuring the following: Outreach to all beneficiaries The aim is to extend congregated services to citizens regardless of their location or proximity to governmental service provider bodies. This concept will eliminate the need for physical location in governmental offices whenever essential services are required.\n\n
+     - Timely and efficient delivery Services will be Provided to citizens, companies, and investors in a way that satisfies their expectations- and within a convenient time framework. This will be achieved through upgrading governmental procedures, omitting unnecessary tasks, eliminating obstacles, and providing services for longer hours, and during weekends.\n\n
+     - More Productivity"/" quality performance The target of efficient service provision can be achieved through restructuring services dynamically to meet citizens"'" expectations, and personalizing delivery to each reciepent’s demands.</string>
+    <string name="about4">Implementation path :</string>
+    <string name="about5">- Providing electronic government services \n Providing services through networks( internet and telephone)\n\n
+     - Expanding the scope of service providers to include ( postal offices-Kiosks-IT clubs-community telecenters)\n\n</string>
+    <string name="about6">- Modernizing work in government offices /n
+Automating workflow and enterprise resource planning in Ministries and Authorities./n
+Establishing a governmental network to allow the flow of data and information./n
+Implementing electronic archiving systems.\n\n
+</string>
+    <string name="about7">Policies : </string>
+    <string name="about8">Setting standards for E-payment \n\n
+Issuing a law for E-signature and transactions through networks.\n\n
+Establishing and updating national databases.\n\n
+Developing applications, and enhancing existing systems.\n\n
+</string>
 
 </resources>
 

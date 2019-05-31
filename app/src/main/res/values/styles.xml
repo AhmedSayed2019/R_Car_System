@@ -26,5 +26,9 @@
         <item name="android:gravity">center</item>
         <item name="android:textColor">@color/gray2</item>
     </style>
+<style name="about">
+    <item name="android:textSize">@dimen/large_text</item>
+    <item name="android:textStyle">bold</item>
 
+</style>
 </resources>

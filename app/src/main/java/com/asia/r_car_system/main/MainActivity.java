@@ -15,6 +15,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.asia.r_car_system.AboutFragment;
+import com.asia.r_car_system.HelpFragment;
 import com.asia.r_car_system.profile.ProfileFragment;
 import com.asia.r_car_system.R;
 import com.asia.r_car_system.fine.FineFragment;
@@ -91,9 +93,9 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_unpaid) {
             ChangeFragment.loadFragment(new FineFragment(), "Fine", this, getSupportFragmentManager());
         } else if (id == R.id.nav_aboutUs) {
-
+            ChangeFragment.loadFragment(new AboutFragment(), "About Us", this, getSupportFragmentManager());
         } else if (id == R.id.nav_help) {
-
+            ChangeFragment.loadFragment(new HelpFragment(), "Help", this, getSupportFragmentManager());
         } else if (id == R.id.nav_logout) {
             logout();
         }
