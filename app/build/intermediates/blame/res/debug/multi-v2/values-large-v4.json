@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\new\\androidAPPS\\Bebo\\p1\\R_Car_System\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "C:\\Ahmed\\Android\\Bebo\\p1\\R_Car_System\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\matrix\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\4b4fd70b6b8539d569dd234d3fb256ef\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\matrix\\.gradle\\caches\\transforms-2\\files-2.1\\2fb462173b3f9cc6b0d2fd1cb7742238\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\matrix\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\d7d7aa174b480f69801fec12acbe9a16\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\matrix\\.gradle\\caches\\transforms-2\\files-2.1\\6fc111b23646d038be8641a9c15cb02d\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

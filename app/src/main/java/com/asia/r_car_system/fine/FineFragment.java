@@ -73,6 +73,7 @@ public class FineFragment extends Fragment implements FineInterface {
 
     @Override
     public void getData() {
+
         mList.clear();
         SharedPreferences share = mContext.getSharedPreferences("user", Context.MODE_PRIVATE);
         final String userId = share.getString("userId", "");
@@ -89,11 +90,10 @@ public class FineFragment extends Fragment implements FineInterface {
                 if (response.isSuccessful()) {
                     try {
 
-                        FineResponse listBooksResponse = response.body();
+                        FineResponse listFind = response.body();
 
                         // get all list_books from server
-                        List<Fine> fines = Objects.requireNonNull(listBooksResponse).getFines();
-
+                        List<Fine> fines = Objects.requireNonNull(listFind).getFines();
                         for (int index = 0; index < fines.size(); index++) {
                             // get fine
                             Fine fine = fines.get(index);

@@ -21,4 +21,10 @@
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowBackground">@android:color/transparent</item>
     </style>
+
+    <style name="profile" parent="android:Theme.Light">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/gray2</item>
+    </style>
+
 </resources>

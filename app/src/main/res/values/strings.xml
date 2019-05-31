@@ -26,6 +26,22 @@
     <string name="no_internet_connection">No Internet Connection</string>
     <string name="loading">Loading</string>
 
+
+    <!--profile-->
+    <string name="car_number">Car Number</string>
+    <string name="chasiss_number">Chasiss Number</string>
+    <string name="motor_number">Cotor Number</string>
+    <string name="car_owner">Car Owner</string>
+    <string name="car_color">Car Color</string>
+    <string name="car_model">Car Model</string>
+    <string name="car_type">Car Type</string>
+    <string name="station">Station</string>
+    <string name="car_brand">Car Brand</string>
+    <!--java-->
+    <string name="no_data_found">No data found</string>
+
+
+
 </resources>
 
 

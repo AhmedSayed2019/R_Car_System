@@ -1,198 +1,198 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
-MERGED from [com.android.support:design:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d7d7aa174b480f69801fec12acbe9a16\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4b4fd70b6b8539d569dd234d3fb256ef\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5fc8951374051e9a1119262bd57c1c11\AndroidManifest.xml:2:1-11:12
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\309d3a6b91606af848cdd70cd1a8308a\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\49afd1dee195295846f5172ad2fba89e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c65f31bba249939f5facf93f7f6b6a63\AndroidManifest.xml:17:1-22:12
-MERGED from [com.victor:lib:1.0.4] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\5af567c2109f32f5fd3510d0b15e5abc\AndroidManifest.xml:2:1-16:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e64f311669dfce0edc61c4c00afd6b3c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3fab91542bb01492327a7ac67152d6fa\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f574d120f34726e77347f5fa7e7536cb\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\68e3622d1e587252202c31b5f2b3d508\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2f8b78c5d6ec8d69cee564bdf2581979\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\293c92d6067c2cd1043b6a5d00fd2ecb\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f281752a34fee967868087e5f4bf2567\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\fdfb98a3ee8a4c357dced0bcc73b51db\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\dc64b70d1c93cf34d3ad67d50d9554c8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\5cabbad71be88b2a0361f03ceb0dd31c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d85a50dae3433fa9a95a21afd2093e09\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5e879c84e50d93a4e919a596b7a388d6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4e31a04ee9a5463f03f51290baa45cf9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a0fee51c0e4440417dc4379b727ae997\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\49b064488b075d057c5b55765f5ce69f\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8acd85d5d3377d5c3e01a2a0e7b21fca\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\07b848ce8c1e97f9eb329c08acfa4044\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ed30f2f749910f105acb87dccc909ca6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\401cd81270c212501083663e9680bb98\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a5a03de7a7f7a128a335da3a20cd1df2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\20719a5bdfcc5b62179bb08b0b1dab9b\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1aaa703131cd47fce830bd349ce1ed06\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\25c4d4fc2aef15dffd44bee9c49f1dd3\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3b50a643f0506fbb654cd6ed5ff1f48b\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\696bbb72928923d68076d8c2395a49be\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8b6f78b338e74a05008a92f1f0a3e1e0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
+ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\6fc111b23646d038be8641a9c15cb02d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\2fb462173b3f9cc6b0d2fd1cb7742238\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\b60dacc6ebf93b8dbd6e4ea17fcf733e\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\ef81f47a92bb73a1a8dc56328de49f18\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\b2c7f223b3415b113348458991dfa225\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\5802595edcd695accf6ecb13c22d5064\AndroidManifest.xml:17:1-22:12
+MERGED from [com.victor:lib:1.0.4] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\fefc857e4210a9f80c7b3ee7a37c9a14\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\2e76a10c2b459fe569d6102c96a9c501\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\26bcda3bfb1dd7338f6ff6ba74ab621e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\6b7ca4604ed5b8b9f18122bfeee6b920\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\2edb82ede47408c26bbcdb00189c98bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\45b8732beb35a746b81be141eb1981df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\6db834b9260f3df6321fd56d3ca8fb9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\592a064d984c66775acc979648efffa1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\f9eed68673906471b3c6b317e66fdc80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\108230f735dfe5a2aff170efcf18c78c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\e80c0649d7bfa8ef15f1279b23ee9d9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\74ea9f9d0e343974cfa562a68c1d8209\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\184212dd5b3b3e97e380a374f90ae071\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\2631541b48e740bb4548d1e6498e2ccd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\f7bee4ee55c5c082f0653288e5e8eeec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\60072b00ca8d8202a0328583f15e03fe\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\acc670edd82fa9eac24e5950b5d80e51\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\c4b5347d9c94ac3a9598172495263d95\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\e244cd4fa809b37c73cc15ef5dbde8ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\9ec6ade86409ce3df9030084640dc5fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\1d8a3bef94824fb993abe7ddca45f345\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\71aea7746a85ae08c06841a19ea35f2e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\337fb65b7aa0e6af24d34d7bd263ffe9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\c64f6a26087e65afeb64c899bcadd17a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\c66be44930b2acfe820a26dedddb21ef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\7f75c2a53c04209df17b191be014c276\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\e548553f0304bcbb76aafb9f10cf6b81\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:3:5-36
-		INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
-		INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
-		INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
-		INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:5:5-79
+ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:5:5-79
 	android:name
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:5:22-76
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:5:22-76
 uses-permission#android.permission.INTERNET
-ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:6:5-67
+ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:8:5-34:19
-MERGED from [com.android.support:design:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d7d7aa174b480f69801fec12acbe9a16\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d7d7aa174b480f69801fec12acbe9a16\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5fc8951374051e9a1119262bd57c1c11\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5fc8951374051e9a1119262bd57c1c11\AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\309d3a6b91606af848cdd70cd1a8308a\AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\309d3a6b91606af848cdd70cd1a8308a\AndroidManifest.xml:9:5-20
-MERGED from [com.victor:lib:1.0.4] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\5af567c2109f32f5fd3510d0b15e5abc\AndroidManifest.xml:11:5-14:19
-MERGED from [com.victor:lib:1.0.4] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\5af567c2109f32f5fd3510d0b15e5abc\AndroidManifest.xml:11:5-14:19
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\49b064488b075d057c5b55765f5ce69f\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\49b064488b075d057c5b55765f5ce69f\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8acd85d5d3377d5c3e01a2a0e7b21fca\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8acd85d5d3377d5c3e01a2a0e7b21fca\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:8:5-34:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\6fc111b23646d038be8641a9c15cb02d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\6fc111b23646d038be8641a9c15cb02d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\b60dacc6ebf93b8dbd6e4ea17fcf733e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\b60dacc6ebf93b8dbd6e4ea17fcf733e\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\ef81f47a92bb73a1a8dc56328de49f18\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\ef81f47a92bb73a1a8dc56328de49f18\AndroidManifest.xml:9:5-20
+MERGED from [com.victor:lib:1.0.4] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\fefc857e4210a9f80c7b3ee7a37c9a14\AndroidManifest.xml:11:5-14:19
+MERGED from [com.victor:lib:1.0.4] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\fefc857e4210a9f80c7b3ee7a37c9a14\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\60072b00ca8d8202a0328583f15e03fe\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\60072b00ca8d8202a0328583f15e03fe\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\acc670edd82fa9eac24e5950b5d80e51\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\acc670edd82fa9eac24e5950b5d80e51\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\49b064488b075d057c5b55765f5ce69f\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\60072b00ca8d8202a0328583f15e03fe\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:12:9-43
 	android:icon
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:10:9-38
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:10:9-38
 	android:allowBackup
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:14:9-40
 	android:usesCleartextTraffic
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:15:9-44
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:15:9-44
 activity#com.asia.r_car_system.login.LoginActivity
-ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:16:9-22:20
+ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:16:9-22:20
 	android:label
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:18:13-42
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:18:13-42
 	android:name
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:17:13-48
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:17:13-48
 activity#com.asia.r_car_system.main.MainActivity
-ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:23:9-33:20
+ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:23:9-33:20
 	android:label
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:25:13-45
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:25:13-45
 	android:theme
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:26:13-56
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:26:13-56
 	android:name
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:24:13-46
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:24:13-46
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:28:13-32:29
+ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:28:13-32:29
 action#android.intent.action.MAIN
-ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:29:17-69
+ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:29:25-66
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:31:17-77
+ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:31:27-74
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml:31:27-74
 uses-sdk
-INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
-INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d7d7aa174b480f69801fec12acbe9a16\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\d7d7aa174b480f69801fec12acbe9a16\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4b4fd70b6b8539d569dd234d3fb256ef\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4b4fd70b6b8539d569dd234d3fb256ef\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5fc8951374051e9a1119262bd57c1c11\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5fc8951374051e9a1119262bd57c1c11\AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\309d3a6b91606af848cdd70cd1a8308a\AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\309d3a6b91606af848cdd70cd1a8308a\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\49afd1dee195295846f5172ad2fba89e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\49afd1dee195295846f5172ad2fba89e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c65f31bba249939f5facf93f7f6b6a63\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c65f31bba249939f5facf93f7f6b6a63\AndroidManifest.xml:20:5-44
-MERGED from [com.victor:lib:1.0.4] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\5af567c2109f32f5fd3510d0b15e5abc\AndroidManifest.xml:7:5-9:41
-MERGED from [com.victor:lib:1.0.4] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\5af567c2109f32f5fd3510d0b15e5abc\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e64f311669dfce0edc61c4c00afd6b3c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e64f311669dfce0edc61c4c00afd6b3c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3fab91542bb01492327a7ac67152d6fa\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3fab91542bb01492327a7ac67152d6fa\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f574d120f34726e77347f5fa7e7536cb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f574d120f34726e77347f5fa7e7536cb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\68e3622d1e587252202c31b5f2b3d508\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\68e3622d1e587252202c31b5f2b3d508\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2f8b78c5d6ec8d69cee564bdf2581979\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2f8b78c5d6ec8d69cee564bdf2581979\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\293c92d6067c2cd1043b6a5d00fd2ecb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\293c92d6067c2cd1043b6a5d00fd2ecb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f281752a34fee967868087e5f4bf2567\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f281752a34fee967868087e5f4bf2567\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\fdfb98a3ee8a4c357dced0bcc73b51db\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\fdfb98a3ee8a4c357dced0bcc73b51db\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\dc64b70d1c93cf34d3ad67d50d9554c8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\dc64b70d1c93cf34d3ad67d50d9554c8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\5cabbad71be88b2a0361f03ceb0dd31c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\5cabbad71be88b2a0361f03ceb0dd31c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d85a50dae3433fa9a95a21afd2093e09\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d85a50dae3433fa9a95a21afd2093e09\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5e879c84e50d93a4e919a596b7a388d6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5e879c84e50d93a4e919a596b7a388d6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4e31a04ee9a5463f03f51290baa45cf9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4e31a04ee9a5463f03f51290baa45cf9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a0fee51c0e4440417dc4379b727ae997\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a0fee51c0e4440417dc4379b727ae997\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\49b064488b075d057c5b55765f5ce69f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\49b064488b075d057c5b55765f5ce69f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8acd85d5d3377d5c3e01a2a0e7b21fca\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8acd85d5d3377d5c3e01a2a0e7b21fca\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\07b848ce8c1e97f9eb329c08acfa4044\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\07b848ce8c1e97f9eb329c08acfa4044\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ed30f2f749910f105acb87dccc909ca6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ed30f2f749910f105acb87dccc909ca6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\401cd81270c212501083663e9680bb98\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\401cd81270c212501083663e9680bb98\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a5a03de7a7f7a128a335da3a20cd1df2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a5a03de7a7f7a128a335da3a20cd1df2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\20719a5bdfcc5b62179bb08b0b1dab9b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\20719a5bdfcc5b62179bb08b0b1dab9b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1aaa703131cd47fce830bd349ce1ed06\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1aaa703131cd47fce830bd349ce1ed06\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\25c4d4fc2aef15dffd44bee9c49f1dd3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\25c4d4fc2aef15dffd44bee9c49f1dd3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3b50a643f0506fbb654cd6ed5ff1f48b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3b50a643f0506fbb654cd6ed5ff1f48b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\696bbb72928923d68076d8c2395a49be\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\696bbb72928923d68076d8c2395a49be\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8b6f78b338e74a05008a92f1f0a3e1e0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\matrix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8b6f78b338e74a05008a92f1f0a3e1e0\AndroidManifest.xml:20:5-44
-INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
-INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\6fc111b23646d038be8641a9c15cb02d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\6fc111b23646d038be8641a9c15cb02d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\2fb462173b3f9cc6b0d2fd1cb7742238\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\2fb462173b3f9cc6b0d2fd1cb7742238\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\b60dacc6ebf93b8dbd6e4ea17fcf733e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\b60dacc6ebf93b8dbd6e4ea17fcf733e\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\ef81f47a92bb73a1a8dc56328de49f18\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\ef81f47a92bb73a1a8dc56328de49f18\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\b2c7f223b3415b113348458991dfa225\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\b2c7f223b3415b113348458991dfa225\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\5802595edcd695accf6ecb13c22d5064\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\5802595edcd695accf6ecb13c22d5064\AndroidManifest.xml:20:5-44
+MERGED from [com.victor:lib:1.0.4] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\fefc857e4210a9f80c7b3ee7a37c9a14\AndroidManifest.xml:7:5-9:41
+MERGED from [com.victor:lib:1.0.4] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\fefc857e4210a9f80c7b3ee7a37c9a14\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\2e76a10c2b459fe569d6102c96a9c501\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\2e76a10c2b459fe569d6102c96a9c501\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\26bcda3bfb1dd7338f6ff6ba74ab621e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\26bcda3bfb1dd7338f6ff6ba74ab621e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\6b7ca4604ed5b8b9f18122bfeee6b920\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\6b7ca4604ed5b8b9f18122bfeee6b920\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\2edb82ede47408c26bbcdb00189c98bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\2edb82ede47408c26bbcdb00189c98bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\45b8732beb35a746b81be141eb1981df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\45b8732beb35a746b81be141eb1981df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\6db834b9260f3df6321fd56d3ca8fb9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\6db834b9260f3df6321fd56d3ca8fb9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\592a064d984c66775acc979648efffa1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\592a064d984c66775acc979648efffa1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\f9eed68673906471b3c6b317e66fdc80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\f9eed68673906471b3c6b317e66fdc80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\108230f735dfe5a2aff170efcf18c78c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\108230f735dfe5a2aff170efcf18c78c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\e80c0649d7bfa8ef15f1279b23ee9d9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\e80c0649d7bfa8ef15f1279b23ee9d9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\74ea9f9d0e343974cfa562a68c1d8209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\74ea9f9d0e343974cfa562a68c1d8209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\184212dd5b3b3e97e380a374f90ae071\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\184212dd5b3b3e97e380a374f90ae071\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\2631541b48e740bb4548d1e6498e2ccd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\2631541b48e740bb4548d1e6498e2ccd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\f7bee4ee55c5c082f0653288e5e8eeec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\f7bee4ee55c5c082f0653288e5e8eeec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\60072b00ca8d8202a0328583f15e03fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\60072b00ca8d8202a0328583f15e03fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\acc670edd82fa9eac24e5950b5d80e51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\acc670edd82fa9eac24e5950b5d80e51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\c4b5347d9c94ac3a9598172495263d95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\c4b5347d9c94ac3a9598172495263d95\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\e244cd4fa809b37c73cc15ef5dbde8ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\e244cd4fa809b37c73cc15ef5dbde8ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\9ec6ade86409ce3df9030084640dc5fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\9ec6ade86409ce3df9030084640dc5fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\1d8a3bef94824fb993abe7ddca45f345\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\1d8a3bef94824fb993abe7ddca45f345\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\71aea7746a85ae08c06841a19ea35f2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\71aea7746a85ae08c06841a19ea35f2e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\337fb65b7aa0e6af24d34d7bd263ffe9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\337fb65b7aa0e6af24d34d7bd263ffe9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\c64f6a26087e65afeb64c899bcadd17a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\c64f6a26087e65afeb64c899bcadd17a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\c66be44930b2acfe820a26dedddb21ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\c66be44930b2acfe820a26dedddb21ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\7f75c2a53c04209df17b191be014c276\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\7f75c2a53c04209df17b191be014c276\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\e548553f0304bcbb76aafb9f10cf6b81\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\matrix\.gradle\caches\transforms-2\files-2.1\e548553f0304bcbb76aafb9f10cf6b81\AndroidManifest.xml:20:5-44
+INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
-		INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
-		ADDED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
-		INJECTED from C:\new\androidAPPS\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+		ADDED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Ahmed\Android\Bebo\p1\R_Car_System\app\src\main\AndroidManifest.xml

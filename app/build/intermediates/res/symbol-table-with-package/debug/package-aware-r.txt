@@ -1299,6 +1299,15 @@ id parentPanel
 id parent_matrix
 id percent
 id pin
+id profile_txVw_carBrand
+id profile_txVw_carColor
+id profile_txVw_carModel
+id profile_txVw_carNumber
+id profile_txVw_carQwner
+id profile_txVw_carType
+id profile_txVw_chasissNumber
+id profile_txVw_motorNumber
+id profile_txVw_station
 id progress_circular
 id progress_horizontal
 id radio
@@ -1518,8 +1527,15 @@ string action_settings
 string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
+string car_brand
+string car_color
+string car_model
+string car_number
+string car_owner
+string car_type
 string character_counter_content_description
 string character_counter_pattern
+string chasiss_number
 string description_logo
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
@@ -1528,12 +1544,14 @@ string hide_bottom_view_on_scroll_behavior
 string loading
 string login
 string logout
+string motor_number
 string mtrl_chip_close_icon_content_description
 string nav_header_desc
 string nav_header_subtitle
 string nav_header_title
 string navigation_drawer_close
 string navigation_drawer_open
+string no_data_found
 string no_internet_connection
 string paid
 string password
@@ -1545,6 +1563,7 @@ string path_password_strike_through
 string phone_number
 string profile
 string search_menu_title
+string station
 string status_bar_notification_info_overflow
 string title_activity_main
 string unpaid
@@ -2048,6 +2067,7 @@ style Widget_MaterialComponents_TextInputLayout_OutlinedBox
 style Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense
 style Widget_MaterialComponents_Toolbar
 style Widget_Support_CoordinatorLayout
+style profile
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth

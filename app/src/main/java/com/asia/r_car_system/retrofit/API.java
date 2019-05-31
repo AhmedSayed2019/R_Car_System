@@ -29,7 +29,7 @@ public interface API {
     //login
 //    @FormUrlEncoded
     @GET("car.php")
-    Call<ProfileResponse> Profile(
+    Call<ProfileResponse> profile(
             @Query("id") String id);
 
 

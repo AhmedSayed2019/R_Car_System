@@ -43,11 +43,9 @@ class FineAdabter extends RecyclerView.Adapter<FineAdabter.ViewHolder> {
 
         final FindModel object = myList.get(position);//get object from list
         try {
-
             holder.txVw_date.setText(object.getDate());
             holder.txVw_value.setText(object.getValue());
             holder.txVw_speed.setText(object.getSpeed());
-
         } catch (NullPointerException ignored) {
 
         }
@@ -69,16 +67,10 @@ class FineAdabter extends RecyclerView.Adapter<FineAdabter.ViewHolder> {
 
         ViewHolder(View itemView) {
             super(itemView);
-
-
             // find views by id
             txVw_date = itemView.findViewById(R.id.itemFine_txVw_date);
             txVw_value = itemView.findViewById(R.id.itemFine_txVw_value);
             txVw_speed = itemView.findViewById(R.id.itemFine_txVw_speed);
-
-
         }
     }
-
-
 }

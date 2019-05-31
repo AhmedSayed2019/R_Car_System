@@ -97,7 +97,7 @@ public class LoginActivity extends AppCompatActivity implements LoginInterface, 
         final String phone = edtx_phone.getText().toString().trim();
         final String password = edtx_password.getText().toString();
         if (phone.isEmpty()) {
-            edtx_phone.setError("Email is required");
+            edtx_phone.setError("Phone is required");
             edtx_phone.requestFocus();
 
         } else {
@@ -122,7 +122,7 @@ public class LoginActivity extends AppCompatActivity implements LoginInterface, 
                             try {
                                 LoginResponse loginResponse = response.body();
                                 if (Objects.requireNonNull(loginResponse).getStatus()) {
-                                    Toast.makeText(LoginActivity.this, "done", Toast.LENGTH_SHORT).show();
+//                                    Toast.makeText(LoginActivity.this, "done", Toast.LENGTH_SHORT).show();
                                     //  save LoginJson in shared preference
                                     SharedPreferences share = getSharedPreferences("user", MODE_PRIVATE);
                                     SharedPreferences.Editor editor = share.edit();
@@ -158,63 +158,6 @@ public class LoginActivity extends AppCompatActivity implements LoginInterface, 
                         dialog.dismiss();
                     }
                 });
-
-
-//                edtx_phone.setText("01001949923");
-//                edtx_password.setText("951236874 ");
-//                call.enqueue(new Callback<ProfileResponse>() {
-//                    @Override
-//                    public void onResponse(Call<ProfileResponse> call, retrofit2.Response<ProfileResponse> response) {
-//                        if (response.isSuccessful()) {
-//                            Toast.makeText(LoginActivity.this, "done", Toast.LENGTH_SHORT).show();
-//                        }else {
-//                            Toast.makeText(LoginActivity.this, "no", Toast.LENGTH_SHORT).show();
-//                        }
-//                        ProfileResponse loginResponse = response.body();
-//                        try {
-//
-//                            if (!loginResponse.getStatus()) {
-//                                String id = loginResponse.getId();
-                ////                add user infromation to user table in DBLite
-//
-//                                Toast.makeText(LoginActivity.this, id, Toast.LENGTH_SHORT).show();
-//                                dialog.dismiss();
-
-                ////                                save LoginJson in shared preference
-//                                SharedPreferences share = getSharedPreferences("user", MODE_PRIVATE);
-//                                SharedPreferences.Editor editor = share.edit();
-//                                editor.putBoolean("isLogin", true);
-//                                editor.apply();
-//                                editor.commit(); // commit changes
-//
-//                                 go to main  activity
-//   //                             Intent bus = new Intent(LoginActivity.this, MainActivity.class);
-//                                startActivity(bus);
-//                                bus.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
-//                                finish();
-//
-//
-
-//                            } else {
-//                                Toast.makeText(LoginActivity.this, loginResponse.getMessage(), Toast.LENGTH_SHORT).show();
-//
-//                            }
-//                        }catch (NullPointerException e){
-//                            Toast.makeText(LoginActivity.this, "null", Toast.LENGTH_SHORT).show();
-//
-//
-//                        }
-
-//                        dialog.dismiss();
-//                    }
-//
-//                    @Override
-//                    public void onFailure(Call<ProfileResponse> call, Throwable t) {
-//                        Toast.makeText(LoginActivity.this, "error " + t.getMessage(), Toast.LENGTH_SHORT).show();
-//                        dialog.dismiss();
-//                    }
-//                });
-
 
             }
         }
